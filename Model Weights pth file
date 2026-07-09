@@ -1,0 +1,6 @@
+## Model Weights
+
+The trained model weights can be downloaded from the following Google Drive link:
+https://drive.google.com/file/d/1hW2d-AOoR_todLScPDzfJHddVdxX9isK/view?usp=sharing
+
+After downloading, place `gcp_model.pth` in the project directory before running inference.
