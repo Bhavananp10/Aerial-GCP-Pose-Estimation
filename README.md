@@ -176,7 +176,8 @@ Several practical challenges were encountered during implementation:
 
 # Model Weights
 
-The trained model weights are provided as:
+The trained model weights are provided as in drive with access
+https://drive.google.com/file/d/1hW2d-AOoR_todLScPDzfJHddVdxX9isK/view?usp=sharing
 
 ```
 gcp_model.pth
